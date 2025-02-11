@@ -35,7 +35,8 @@ This project implements a **security system with alarm** using an ESP32. The sys
 
 ## Wiring Diagram
 
-Pending ....
+![image](https://github.com/user-attachments/assets/1ceea188-cf50-4250-bc29-56d422079746)
+
 
 ## Telegram Notification (Optional)
 To receive alerts on Telegram, follow these steps:
